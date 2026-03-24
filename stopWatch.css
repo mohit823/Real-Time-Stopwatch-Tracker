@@ -1,0 +1,40 @@
+.watch-container {
+    width: 350px;
+    padding: 20px;
+    border: 2px solid #e1c700;
+    border-radius: 20px;
+    background: #121212;
+    text-align: center;
+}
+
+#watch-value {
+    font-size: 4rem;
+    color: #e1c700;
+    margin-bottom: 20px;
+}
+
+.watch-btn {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.watch-btn button {
+    padding: 15px;
+    background: #e1c700;
+    border: none;
+    border-radius: 10px;
+    color: #121212;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.watch-btn button:hover {
+    background: #c7a400;
+}
+
+.show-text {
+    margin-top: 20px;
+    color: white;
+}
