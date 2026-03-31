@@ -7,7 +7,7 @@ This project allows users to track time with features like start, stop, reset, l
 
 👉 live link here ()
 
-[https://your-live-link.netlify.app](https://real-time-stopwatch-tracker.netlify.app/)
+[https://your-live-link.netlify.app](https://real-time-stopwatch-tracker.vercel.app/)
 🚀 Features
 ▶️ Start timer
 ⏸️ Stop timer
