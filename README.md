@@ -3,14 +3,6 @@
 A simple and interactive Stopwatch Web App built using HTML, CSS, and JavaScript.
 This project allows users to track time with features like start, stop, reset, lap recording, and clear functionality.
 
-🌐 Live Demo
-
-👉 live link here ()
-# ⏱️ Real-Time Stopwatch Tracker
-
-A simple and interactive **Stopwatch Web App** built using HTML, CSS, and JavaScript.
-This project allows users to track time with features like start, stop, reset, lap recording, and clear functionality.
-
 ---
 
 ## 🌐 Live Demo
